@@ -1,0 +1,13 @@
+.Block {
+    margin: 20px;
+    display: inline-block;
+    background-color: rgba(71, 66, 66, 0.295);
+}
+
+.outhe {
+    text-align: center;
+}
+
+.Block>img {
+    width: 300px;
+}
